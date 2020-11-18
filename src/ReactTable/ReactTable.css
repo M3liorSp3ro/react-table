@@ -1,0 +1,11 @@
+thead th {
+    cursor: pointer;
+}
+
+tbody {
+    cursor: pointer;
+}
+
+tbody tr:hover {
+    background-color: #ccc;
+}
